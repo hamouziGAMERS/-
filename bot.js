@@ -274,4 +274,4 @@ message.member.voiceChannel.join();
 });
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(NTQyMDgzNTE2NzM3NzgxNzgz.Dzo3dg.kglUeBBv2QJcc6-LrbA-UfogAi4);
